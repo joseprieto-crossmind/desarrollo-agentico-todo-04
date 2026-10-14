@@ -1,0 +1,3 @@
+# Los scripts de shell deben terminar en LF para que bash los ejecute,
+# también en checkouts de Windows con core.autocrlf=true.
+*.sh text eol=lf
